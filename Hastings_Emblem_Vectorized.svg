@@ -43,9 +43,9 @@
      showgrid="false"
      inkscape:object-paths="false"
      inkscape:object-nodes="true"
-     inkscape:zoom="0.93009868"
-     inkscape:cx="-448.97406"
-     inkscape:cy="-4.7366311"
+     inkscape:zoom="2.6307163"
+     inkscape:cx="-570.91686"
+     inkscape:cy="-58.559554"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -1282,4 +1282,10 @@
      id="path4450-6"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="csssccssssssssssscssscssscscscsscssssccssccsscsssccsscssssssscssssscsssssssscscssssscccssscsscccsssscsssscssssscscsssscscssssccsssssccsssssssssssssssscsssssscssssscsssccssssssssssssssssssscsssssscsssssscsssssssssssscssssscsssssssscsssssssssssssssscssssssssssssscsscscccccssscssscccccssssscscccsscsscssscscssssssscsssscccssssssssssssscsssssssssssssssscssssssscscsssssssssssscsssssssssscccsssscsscssssssssscsscsssccscssssssscscsssssssscsscsssssscssssccsssscssssssssssscssssssssssccsssssscssssccsccsscscsscssccsssssssssssssssssscsssssscccscsscsccccscssscsssscsscsssscsssscsssssssscssssssssscssssssscsssssccsssssssssssssssccsssscsssscsssssssscsssssssssssscssssssssscscssscssssssscscssssssssscscssssssssssssscssssssssscscsssscssssssscsssssscssscssssssscssssssssccssssssssssscsscsssscccsssssssscsssssccsssssscscscsssssscssssscssscsscsssssscscscssssssscssssscsscsscsssssscsssssssssssssssssscccsssssccssssscsscccccscccssccsccsssssssssssssssssssssssssccsssssscsssscsssssccsssssssssscccsssssssccssssssssss" />
+  <path
+     style="fill:#fe0000;fill-opacity:1;stroke:none"
+     d="m -510.77678,505.62302 c 6.2661,-8.60325 8.0004,-15.96816 4.5686,-19.40001 -3.1686,-3.16858 -8.8,-1.18112 -8.8,3.10571 0,1.13175 -0.5821,4.7667 -1.2936,8.07765 -1.1776,5.47978 -1.1812,6.28895 -0.041,9.01829 0.689,1.6491 1.6005,2.99836 2.0255,2.99836 0.4249,0 2.0181,-1.71 3.5403,-3.8 z"
+     id="path4450-6-5"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cssssscc" />
 </svg>
